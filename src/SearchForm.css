@@ -1,0 +1,39 @@
+.search_form {
+    display: block;
+    text-align: center;
+    margin-top: 10%;
+    
+}
+
+.label {
+    font-size: 40px;
+
+}
+
+.input_search {
+    border: 1px solid purple;
+    border-radius: 5px;
+    padding: 10px 12px;
+    margin: 10px;
+    font-family: 'Whisper', cursive;
+    font-size: 25px;
+
+}
+
+
+.btn_submit {
+    border: 1px solid purple;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-family: 'Whisper', cursive;
+    font-size: 25px;
+}
+
+.btn_clear {
+    border: 1px solid purple;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-family: 'Whisper', cursive;
+    font-size: 25px;
+    margin: 5px;
+}

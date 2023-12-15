@@ -1,0 +1,45 @@
+.user-card {
+    display: block;
+    text-align: center;
+}
+
+
+.card_block {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid purple;
+    border-radius: 5px;
+}
+
+.image_block {
+    display: block;
+    margin-top: 45px;
+}
+
+.info_block {
+    display: block;
+}
+
+
+.avatar {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.highlight {
+    color: blueviolet;
+}
+
+.btn_navigate {
+    border: 1px solid purple;
+    border-radius: 5px;
+    padding: 10px 12px;
+    font-family: 'Whisper', cursive;
+    font-size: 25px;
+    margin: 5px;
+}
